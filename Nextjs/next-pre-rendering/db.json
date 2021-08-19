@@ -1,0 +1,57 @@
+{
+    "dashboard" : {
+            "posts":5,
+            "Likes":100,
+            "followers":250,
+            "following":150
+        }
+    ,
+    "news": [
+        {
+            "id":1,
+            "title":"News Article 1",
+            "Description": "DEscription 1",
+            "Category": "sports"
+        },
+        {
+            "id":2,
+            "title":"News Article 2",
+            "Description": "DEscription 2",
+            "Category": "politics"
+        },
+        {
+            "id":45,
+            "title":"News Article 3 Ayansh Risbud",
+            "Description": "DEscription 3",
+            "Category": "sports"
+        },
+        {
+            "id":4,
+            "title":"News Article 4",
+            "Description": "DEscription 4",
+            "Category": "sports"
+        }
+
+    ],
+    "products": [
+        {
+            "id":1,
+            "title":"Product 1",
+            "price":1000,
+            "description":"Description 1"
+
+        },
+        {
+            "id":1,
+            "title":"Product 1",
+            "price":1000,
+            "description":"Description 1"
+        },
+        {
+            "id":1,
+            "title":"Product 1",
+            "price":1000,
+            "description":"Description 1"
+        }
+    ]
+}
